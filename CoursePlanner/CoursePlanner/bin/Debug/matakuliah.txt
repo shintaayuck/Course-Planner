@@ -1,0 +1,25 @@
+Tugas_Akhir_I&II, Elusidasi_Struktur, Rancangan_Penelitian, MK_Pilihan.
+Elusidasi_Struktur, Kimia_Golongan_Utama, Dinamika_Kimia, Sintesis_Organik, Analisis_Spektrometri, Metabolisme_dan_Informasi_Genetik.
+Rancangan_Penelitian, Kimia_Golongan_Utama, Dinamika_Kimia, Sintesis_Organik, Analisis_Spektrometri, Metabolisme_dan_Informasi_Genetik, Elusidasi_Struktur, MK_Pilihan.
+Kimia_Golongan_Utama, Logam_Transisi_dan_Katalis.
+Dinamika_Kimia, Energetika_Kimia.
+Sintesis_Organik, Senyawa_Organik_Polifungsi.
+Analisis_Spektrometri, Cara_Pemisahan_dan_Elektrimetri.
+Metabolisme_dan_Informasi_Genetik, Struktur_dan_Fungsi_Biomolekul.
+Logam_Transisi_dan_Katalis, Struktur_dan_Kereaktifan_Anorganik.
+Energetika_Kimia, Struktur_dan_Ikatan_Kimia.
+Senyawa_Organik_Polifungsi, Senyawa_Organik_Monofungsi.
+Cara_Pemisahan_dan_Elektrimetri, Dasar_Dasar_Kimia_Analitik.
+Struktur_dan_Fungsi_Biomolekul, Dasar_Dasar_Kimia_Hayati.
+Struktur_dan_Kereaktifan_Anorganik, Kalkulus_II, Fisika_II, Kimia_II.
+Struktur_dan_Ikatan_Kimia, Kalkulus_II, Fisika_II, Kimia_II.
+Senyawa_Organik_Monofungsi, Kalkulus_II, Fisika_II, Kimia_II.
+Dasar_Dasar_Kimia_Analitik, Kalkulus_II, Fisika_II, Kimia_II.
+Dasar_Dasar_Kimia_Hayati, Kalkulus_II, Fisika_II, Kimia_II.
+MK_Pilihan, Kalkulus_II, Fisika_II, Kimia_II.
+Kalkulus_II, Kalkulus_I.
+Fisika_II, Fisika_I.
+Kimia_II, Kimia_I.
+Kalkulus_I.
+Fisika_I.
+Kimia_I.
